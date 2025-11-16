@@ -57,7 +57,7 @@ Welcome to the official website of the **IEI Student Chapter** at **RCC Institut
 - **Tailwind CSS** for rapid UI development
 - **Vite** for lightning-fast builds
 - **SEO Optimized** with structured data
-- **Performance Focused** (95+ Lighthouse scores)
+
 
 ### 📊 Website Sections
 - **🎯 Hero Section** - Compelling introduction with clear CTAs
@@ -86,6 +86,7 @@ India
 ## 🔧 Technology Stack
 
 - **Frontend Framework:** React 18
+- **Backend Framework:** Django
 - **Styling:** Tailwind CSS
 - **Build Tool:** Vite
 - **Deployment:** Vercel
