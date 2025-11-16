@@ -32,7 +32,7 @@ Welcome to the official website of the **IEI Student Chapter** at **RCC Institut
 | Platform | Link | Status |
 |----------|------|---------|
 | **🌐 Website** | [https://ie-i-scrcciit.vercel.app](https://ie-i-scrcciit.vercel.app) | ✅ Live |
-| **📧 Email** | [contact@ieircciit.in](ieiscrcciit@gmail.com) | ✅ Active |
+| **📧 Email** | [ieiscrcciit@gmail.com](ieiscrcciit@gmail.com) | ✅ Active |
 | **💼 LinkedIn** | [IEI RCCIIT](https://www.linkedin.com/company/ie-i-student-chapter-rcciit/) | ✅ Active |
 | **📘 Facebook** | [IEI RCCIIT](https://www.facebook.com/share/19zGvzcSha/) | ✅ Active |
 | **📷 Instagram** | [@ieircciit](https://www.instagram.com/ieisc_rcciit?igsh=dnpodzk4bDA3YzM4) | ✅ Active |
