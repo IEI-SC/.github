@@ -19,6 +19,16 @@
 
 Welcome to the official website of the **IEI Student Chapter** at **RCC Institute of Information Technology, Kolkata**. This platform serves as the digital hub for all engineering students interested in technical workshops, project development, and professional growth under the guidance of The Institution of Engineers (India).
 
+## 🌐 Faculty Advisors/ in Charge
+
+**Dr. Soumyadip Dhar** 
+**Dr. Hiranmoy Roy** 
+
+## 🌐 Student Leads/Convenors
+
+**Debjoy Sarkar** 
+**Vageesha Kriti** 
+
 ## 🌐 Live Website
 
 **🔗 Official Website:** [https://ie-i-scrcciit.vercel.app](https://ie-i-scrcciit.vercel.app)
