@@ -21,13 +21,13 @@ Welcome to the official website of the **IEI Student Chapter** at **RCC Institut
 
 ## 🌐 Faculty Advisors/ in Charge
 
-**Dr. Soumyadip Dhar** 
-**Dr. Hiranmoy Roy** 
+- **Dr. Soumyadip Dhar**
+- **Dr. Hiranmoy Roy** 
 
 ## 🌐 Student Leads/Convenors
 
-**Debjoy Sarkar** 
-**Vageesha Kriti** 
+- **Debjoy Sarkar** 
+- **Vageesha Kriti** 
 
 ## 🌐 Live Website
 
