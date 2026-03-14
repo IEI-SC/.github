@@ -7,7 +7,7 @@
 **Institution of Engineers (India)**  
 *RCC Institute of Information Technology, Kolkata*
 
-![IEI Student Chapter Banner/Logo](https://ie-i-scrcciit.vercel.app/images/Official%20Logo.png)
+![IEI Student Chapter Banner/Logo](https://ie-i-scrcciit.vercel.app/images/Official_ieircciit_Logo.png)
 
 [![Website](https://img.shields.io/badge/Website-Live-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ie-i-scrcciit.vercel.app)
 [![React](https://img.shields.io/badge/Built_with-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
@@ -106,7 +106,7 @@ India
 
 Interested in joining IEI Student Chapter or participating in our events?
 
-- 📧 **Email us:** [ieiscrcciit@gmail.com](mailto:ieiscrcciit@gmail.com)
+- 📧 **Email us:** [iei.it@rcciit.edu.in](mailto:iei.it@rcciit.edu.in)
 - 🌐 **Visit our website:** [https://ie-i-scrcciit.vercel.app](https://ie-i-scrcciit.vercel.app)
 - 📱 **Follow us** on social media for updates
 
