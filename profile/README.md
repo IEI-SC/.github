@@ -7,7 +7,7 @@
 **Institution of Engineers (India)**  
 *RCC Institute of Information Technology, Kolkata*
 
-![IEI Banner](https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Institution_of_Engineers_%28India%29_Logo.svg/375px-Institution_of_Engineers_%28India%29_Logo.svg.png)
+![IEI Student Chapter Banner/Logo](https://ie-i-scrcciit.vercel.app/images/Official%20Logo.png)
 
 [![Website](https://img.shields.io/badge/Website-Live-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ie-i-scrcciit.vercel.app)
 [![React](https://img.shields.io/badge/Built_with-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
