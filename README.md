@@ -7,7 +7,7 @@
 **Institution of Engineers (India)**  
 *RCC Institute of Information Technology, Kolkata*
 
-![IEI Banner](https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Institution_of_Engineers_%28India%29_Logo.svg/375px-Institution_of_Engineers_%28India%29_Logo.svg.png)
+![IEI Student Chapter Banner/Logo](https://ie-i-scrcciit.vercel.app/images/Official_ieircciit_Logo.png)
 
 [![Website](https://img.shields.io/badge/Website-Live-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ie-i-scrcciit.vercel.app)
 [![React](https://img.shields.io/badge/Built_with-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
@@ -18,6 +18,16 @@
 ## 📖 About
 
 Welcome to the official website of the **IEI Student Chapter** at **RCC Institute of Information Technology, Kolkata**. This platform serves as the digital hub for all engineering students interested in technical workshops, project development, and professional growth under the guidance of The Institution of Engineers (India).
+
+## 🌐 Faculty Advisors/ in Charge
+
+- **Dr. Soumyadip Dhar**
+- **Dr. Hiranmoy Roy** 
+
+## 🌐 Student Leads/Convenors
+
+- **Debjoy Sarkar** 
+- **Vageesha Kriti** 
 
 ## 🌐 Live Website
 
@@ -32,7 +42,7 @@ Welcome to the official website of the **IEI Student Chapter** at **RCC Institut
 | Platform | Link | Status |
 |----------|------|---------|
 | **🌐 Website** | [https://ie-i-scrcciit.vercel.app](https://ie-i-scrcciit.vercel.app) | ✅ Live |
-| **📧 Email** | [contact@ieircciit.in](ieiscrcciit@gmail.com) | ✅ Active |
+| **📧 Email** | [ieiscrcciit@gmail.com](ieiscrcciit@gmail.com) | ✅ Active |
 | **💼 LinkedIn** | [IEI RCCIIT](https://www.linkedin.com/company/ie-i-student-chapter-rcciit/) | ✅ Active |
 | **📘 Facebook** | [IEI RCCIIT](https://www.facebook.com/share/19zGvzcSha/) | ✅ Active |
 | **📷 Instagram** | [@ieircciit](https://www.instagram.com/ieisc_rcciit?igsh=dnpodzk4bDA3YzM4) | ✅ Active |
@@ -57,7 +67,7 @@ Welcome to the official website of the **IEI Student Chapter** at **RCC Institut
 - **Tailwind CSS** for rapid UI development
 - **Vite** for lightning-fast builds
 - **SEO Optimized** with structured data
-- **Performance Focused** (95+ Lighthouse scores)
+
 
 ### 📊 Website Sections
 - **🎯 Hero Section** - Compelling introduction with clear CTAs
@@ -86,6 +96,7 @@ India
 ## 🔧 Technology Stack
 
 - **Frontend Framework:** React 18
+- **Backend Framework:** Django
 - **Styling:** Tailwind CSS
 - **Build Tool:** Vite
 - **Deployment:** Vercel
@@ -95,7 +106,7 @@ India
 
 Interested in joining IEI Student Chapter or participating in our events?
 
-- 📧 **Email us:** [ieiscrcciit@gmail.com](mailto:ieiscrcciit@gmail.com)
+- 📧 **Email us:** [iei.it@rcciit.edu.in](mailto:iei.it@rcciit.edu.in)
 - 🌐 **Visit our website:** [https://ie-i-scrcciit.vercel.app](https://ie-i-scrcciit.vercel.app)
 - 📱 **Follow us** on social media for updates
 
